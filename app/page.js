@@ -9,7 +9,7 @@ export default function Page() {
         workshop. Every time a change is merged into <code>main</code>, Jenkins
         rebuilds this page and redeploys it to this container.
       </p>
-      <h1>This is the tag line.</h1>
+      <h1>Hello, Jenkins!</h1>
     </main>
   );
 }
